@@ -23,6 +23,7 @@ Following are the links to the notebooks in the original repositories.
 ### pycobra
 
 [Regression](https://github.com/bhargavvader/pycobra/blob/master/notebooks/regression.ipynb)
+
 [Visualisation](https://github.com/bhargavvader/pycobra/blob/master/notebooks/visualise.ipynb)
 
 ## spacy-notebooks
