@@ -31,7 +31,10 @@ In case the user finds it difficult to download any of the above, there will be 
 
 - Start the environment with
 
-`virtualenv venv`
+```
+virtualenv venv
+source venv/bin/activate
+```
 
 - Download requirements with -
 
