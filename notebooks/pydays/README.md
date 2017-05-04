@@ -15,3 +15,26 @@ It largely follows the structure of the [News Classification](https://github.com
 ```
 
 In case the user finds it difficult to download any of the above, there will be a Jupyter Notebook with all the cells already run, so you can just follow the same.
+
+
+### Setup
+
+- Start by cloning the repo using
+
+`git clone https://github.com/bhargavvader/personal`
+
+- Go into the `notebooks/pydays` directory
+
+- Install `virtualenv` using
+
+`pip install virtualenv`
+
+- Start the environment with
+
+`virtualenv venv`
+
+- Download requirements with -
+
+`pip install -r REQUIREMENTS.txt`
+
+And you should be good to go!
