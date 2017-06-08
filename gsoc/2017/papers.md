@@ -1,4 +1,6 @@
 ## Links to papers relevant to GSoC 2017 with pymc3
+### Introduction to MCMC
+[The Convergence of Markov chain Monte Carlo Methods: From the Metropolis method to Hamiltonian Monte Carlo](https://arxiv.org/abs/1706.01520)
 
 ### Reading Material for Riemannian Manifold Hamiltonian Monte Carlo
 
