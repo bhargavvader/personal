@@ -23,7 +23,7 @@ In case the user finds it difficult to download any of the above, there will be 
 
 `git clone https://github.com/bhargavvader/personal`
 
-- Go into the `notebooks/pydays` directory
+- Go into the `notebooks/text_analysis_tutorial` directory
 
 - Install `virtualenv` using
 
