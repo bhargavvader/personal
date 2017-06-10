@@ -1,4 +1,4 @@
-## PyDays Vienna
+## Workshop
 
 This directory contains the Jupyter Notebook which will be followed during the workshop.
 
