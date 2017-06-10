@@ -1,6 +1,6 @@
 ## PyDays Vienna
 
-This directory contains the Jupyter Notebook which will be followed during the workshop for PyDays Vienna 2017.
+This directory contains the Jupyter Notebook which will be followed during the workshop.
 
 It largely follows the structure of the [News Classification](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/gensim_news_classification.ipynb) notebook, with the major difference being in the pre-processing done by spaCy instead of NLTK.
 
