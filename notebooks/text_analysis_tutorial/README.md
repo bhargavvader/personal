@@ -1,6 +1,6 @@
 ## Workshop
 
-This directory contains the Jupyter Notebook which will be followed during the workshop.
+This directory contains the Jupyter Notebook which will be followed during the workshop/tutorial.
 
 It largely follows the structure of the [News Classification](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/gensim_news_classification.ipynb) notebook, with the major difference being in the pre-processing done by spaCy instead of NLTK.
 
@@ -41,3 +41,5 @@ source venv/bin/activate
 `pip install -r REQUIREMENTS.txt`
 
 And you should be good to go!
+
+Alternatively, if you are using anaconda as your virtual environment, running `conda install gensim` and `conda install spacy` should also do the trick.
