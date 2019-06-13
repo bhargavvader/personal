@@ -3,6 +3,7 @@
 This directory contains the Jupyter Notebooks which will be followed during the workshop/tutorial.
 
 It largely follows the structure of the [News Classification](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/gensim_news_classification.ipynb) notebook, with the major difference being in the pre-processing done by spaCy instead of NLTK.
+edit: I've also added text generation with Keras now, and will soon be adding a brief bit on word embeddings.
 
 The tutorial on Topic Modelling follows us through different topic models and how to visualise them and evaluate them, while the text analysis tutorial introduces users to a variety of text analysis approaches.
 
